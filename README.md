@@ -1,5 +1,5 @@
-## Proyecto de app de Cine con React
-Este proyecto es una web que permite buscar películas  en la API de The Movie Database
+## Proyecto  App React Movies API
+ Este proyecto es una web que permite buscar películas  en la API de The Movie Database
 
 ## # Sobre el proyecto
 Este proyecto utiliza React
