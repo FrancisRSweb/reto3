@@ -1,8 +1,8 @@
 ## Proyecto de app de Cine con React
-Este proyecto es una web que permite buscar películas  en la API de The Movie Database y en la página principal muestra una lista de estrenos y otra lista películas populares. Al hacer click en la imagen o título de una película se muestra la información relevante de la misma en otra vista. Las pelíulas se pueden  agregar a una lista de favoritos que se visualiza en la página de inicio, la cual tiene la misma funcionalidad que las listas anteriores.
+Este proyecto es una web que permite buscar películas  en la API de The Movie Database
 
 ## # Sobre el proyecto
-Este proyecto utiliza React y es parte de un curso realizado por Engie Factory. 
+Este proyecto utiliza React
 
 ### Requerimientos del proyecto
 * Mostrar una lista de al menos (pueden ser más) las 5 películas más populares.
@@ -16,8 +16,7 @@ Para esto se solicitó utilizar:
 
 * La API de https://www.themoviedb.org
 * React y lo aprendido en clases.
-* Pueden utilizar el framework CSS de su preferencia Bootstrap, Material, o CSS puro.
-* Usar ESLINT y Prettier en el proyecto.
+* Pueden utilizar el framework CSS de su preferencia Bootstrap CSS
 
 ### Para utilizarlo 
 1. Se debe descargar  o clonar el repositorio.
