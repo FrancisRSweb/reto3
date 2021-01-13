@@ -16,7 +16,7 @@ Para esto se solicitó utilizar:
 
 * La API de https://www.themoviedb.org
 * React y lo aprendido en clases.
-* Pueden utilizar el framework CSS de su preferencia Bootstrap CSS
+* Pueden utilizar el framework CSS de su preferencia Bootstrap 
 
 ### Para utilizarlo 
 1. Se debe descargar  o clonar el repositorio.
